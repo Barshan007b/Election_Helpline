@@ -1,0 +1,12 @@
+node_modules
+.next
+.git
+.env.local
+Dockerfile
+.dockerignore
+README.md
+LICENSE
+.vscode
+list_models.js
+list_model_names.js
+list_models_fetch.js
